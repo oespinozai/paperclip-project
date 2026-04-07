@@ -1,5 +1,8 @@
 # Ignored files
 node_modules/
 venv/
+.venv/
+__pycache__/
+*.py[cod]
 .env
 .DS_Store
